@@ -1,4 +1,4 @@
-# BK7253-Ipcam-reflashing
+# BK7252-Ipcam-reflashing
 this repository is going to illustrate the process of "hardware hacking" of a small chinese ip cam with a A9_B V1.3_220516 with a BK7252 chip, as well as providing information manual and resource to explore the basic of the various component;
 to start using this repository as the center of your information gathering for learning you only need the basic thing:
 1
