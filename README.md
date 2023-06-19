@@ -5,3 +5,7 @@ to start using this repository as the center of your information gathering for l
   A UART to USB device to connect to the uart (you can use a device that already have a such chip, for example a esp8266 or a arduino) the chip that you are looking for are cp210x or ch340g;
 this repository is aimed to everyone that want to approch the world of hardware hacking on small china
 (i'm a newby myself)
+
+![IMG_20230522_112131](https://github.com/RenatoDeRosa/BK7252-Ipcam-reflashing/assets/60145559/a35c2cd2-ab5c-45f8-8197-88a669e1545c)
+
+![IMG_20230522_112135](https://github.com/RenatoDeRosa/BK7252-Ipcam-reflashing/assets/60145559/de7d92f3-6136-4f2e-9788-73220df4ae8e)
